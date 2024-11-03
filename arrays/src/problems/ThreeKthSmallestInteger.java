@@ -3,7 +3,8 @@ package problems;
 import java.util.Arrays;
 
 /*
- * Problem Link: Given an array arr[] and an integer k where k is smaller than the size of the array,
+ * Problem Link: https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1
+ * Given an array arr[] and an integer k where k is smaller than the size of the array,
  * the task is to find the kth smallest element in the given array.
  * 450 DSA Question Reference: Arrays ID: 2
  *

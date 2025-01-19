@@ -1,4 +1,3 @@
-package problems;
 
 /*
  * Problem Link: https://www.geeksforgeeks.org/problems/next-permutation5226/1
